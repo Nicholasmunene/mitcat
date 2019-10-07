@@ -1,0 +1,155 @@
+.body{
+    background-color: black;
+    color: black;
+    padding: 2px;
+}
+.list{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 18px;
+}
+
+.link{
+    padding: 5px;
+
+}
+
+.mother{
+    display: flex;
+    height: 15vh;
+    width: 100%;
+    ;
+}
+
+.h1{
+    width: 50%;
+   padding-top: 20px;
+    margin-left: 20px;
+    color: white;
+}
+.second{
+    height: 30vh;
+    display: flex;
+    padding: 2px;
+    background-color: #dfe1ff;
+}
+
+.img{
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 70%;
+}
+.seca{
+    display: flow;
+    width: 30%;
+    height: 30vh;
+    padding-left: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.image{
+    padding-left: 20px;
+}
+
+.x{
+    min-height: 80vh;
+    width: 33%;
+}
+.y{
+    min-height: 80vh;
+    width: 33%;
+
+}
+.z{
+    min-height:80vh;
+    width: 33%;
+
+}
+.third{
+    width: 90%;
+    height: 30%;
+}
+
+.seconda{
+    width: 90%;
+    height: 30%;
+}
+
+
+.first{
+    width: 90%;
+    height: 30%;
+}
+.a{
+    background-color: #eeefff;
+
+}
+.thirddiv{
+    display: flex;
+    height: 30vh;
+    padding-top: 20px;
+}
+button{
+    border-radius: 5px;
+}
+.middle{
+    min-height:80vh;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color:whitesmoke;
+    padding: 30px;
+}
+.footer{
+    display: flex;
+    min-height: 30vh;
+    justify-content: center;
+    padding: 5px;
+    color: white;
+}
+
+.h4{
+    color: white;
+}
+
+.footer1{
+    width: 33%;
+    padding-top: 20px;
+}
+.footer2{
+    display: flow;
+    width: 33%;
+    padding-top: 20px;
+    color: white;
+}
+.footer3{
+    width: 33%;
+    padding-top: 20px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+}
+.inside{
+    display: flex;
+    padding: 5px;
+}
+.caption{
+    padding-left: 20px;
+    padding-top: 4px;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.li{
+    padding-top: 30px;
+}
+
+.icon1{
+    width: 25px;
+    height: 25px;
+}
